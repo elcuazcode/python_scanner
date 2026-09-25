@@ -33,5 +33,6 @@ o con autorización.
 ## Desarrollo
 
 ```bash
-python3 -m pytest
+pip install -e ".[dev]"  # o: pip install pytest pytest-cov
+python3 -m pytest --cov=escaneo_nmap
 ```
