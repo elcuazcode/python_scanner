@@ -1,0 +1,21 @@
+========================================================================
+REPORTE DE ESCANEO DE PUERTOS
+========================================================================
+Fecha y hora: 2026-09-24 18:37:36 CST
+Objetivo: 127.0.0.1
+Comando: nmap -oX - -p 1-1024 127.0.0.1
+Equipos detectados: 1
+Equipos activos: 1
+
+NOTA: Ejecuta escaneos únicamente sobre sistemas propios o con autorización.
+
+------------------------------------------------------------------------
+EQUIPO 1: 127.0.0.1
+Estado: up
+Nombre: localhost
+Puertos abiertos: 0
+No se encontraron puertos abiertos en el rango indicado.
+
+========================================================================
+Fin del reporte
+========================================================================
